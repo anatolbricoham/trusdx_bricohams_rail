@@ -17,7 +17,7 @@ El riel usa **exactamente el mismo perfil de cola de milano que la tapa inferior
 
 Cambias la batería de la radio a la base (o viceversa) en segundos, sin herramientas.
 
-![Montaje](images/assembly_back.png)
+![Montaje](images/assembly_left.png)
 
 ## Piezas a imprimir
 
